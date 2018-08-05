@@ -1,0 +1,18 @@
+{
+  "name": "mprnc",
+  "version": "1.0.0",
+  "description": "core part of mprnc that runs between ssb and a client",
+  "main": "mprnc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mprnc",
+    "ssb"
+  ],
+  "author": "Felix Niemeyer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
