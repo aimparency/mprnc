@@ -2,8 +2,7 @@ const express = require('express')
 const app = express()
 const bodyParser = require('body-parser')
 
-const apiRouter = require('./api-router.js');
-
+const apiRouter = require('./api-router.js')
 
 var port = 3001
 var clientFiles = '../mprnc-ui/public'
